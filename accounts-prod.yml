@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Hello message prod apis"
+  message: "Hello message prod webhook apis"
   contactDetails:
     email: "{cipher}00a1dd0b737a130f59c891fd5d30b2c6e8dc7c05ffd8d3039fab24068c1fb1c1"
     name: "EazyBank"
